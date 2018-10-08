@@ -1,5 +1,2 @@
 # onlinebanking
-onlinebanking-demo...
-*!!!!!!*
-
-test
+modified commit message
